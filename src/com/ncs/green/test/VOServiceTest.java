@@ -24,6 +24,7 @@ public class VOServiceTest {
 		
 		// 4) Git Local Test
 		System.out.println("** commit Test01 성공 **");
+		System.out.println("** 여기는 hotfix Branch **");
 		
 	} //main
 
